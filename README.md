@@ -21,7 +21,7 @@ Now let us view the Log In page:
 Now after loggin in the website will look like:
 
 
-![image](https://user-images.githubusercontent.com/121314308/227180643-ce86cefc-8816-4849-866c-d86d9585c95c.png)
+![image](https://user-images.githubusercontent.com/121314308/227182444-5cca4f46-e655-4514-854d-233d314c0bf9.png)
 
 
 The cart page will look like:
