@@ -2,7 +2,7 @@
 An Ecommerce project using nodejs,expressjs,NoSQL,JavaScript,AJAX.
 I have also used Embedded JS for server side rendering.
 To run the project in your Computer you have to install some npm modules,
-Using npm install commands, the modules are mentioned in the package.json file.
+Using npm install command, the modules are mentioned in the package.json file will get downloaded automatically.
 Then after installing all the modules use node main command in your terminal in the same directory
 where you saved main.js and then open localhost:3000 to view the project.
 And yes! now you land on the Come Shop website😎
